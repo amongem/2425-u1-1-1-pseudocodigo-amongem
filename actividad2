@@ -1,0 +1,9 @@
+inicio
+escribir "indique un numero"
+leer numero
+si numero /2==0
+Entonces
+escribir numero "es par"
+sino
+escribir numero "no es par"
+fin
