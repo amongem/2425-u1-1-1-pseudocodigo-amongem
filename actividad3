@@ -1,0 +1,10 @@
+inicio
+escribir "indique numero"
+lee numero
+si numero /numero
+o
+si numero /1
+escribir "numero es primo"
+sino
+escribir numero "no es primo"
+fin
