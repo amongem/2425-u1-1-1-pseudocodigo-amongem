@@ -3,5 +3,8 @@
 
 
 
-Nombre: Antonio José Monge Monge
-Edad: 26
+Fecha de entrega: 27/09/2024
+Fecha en la que se entrega: 27/09/2024
+Antonio José Monge Monge
+amonmo0206@g.educaand.es
+DAW Grupo A
