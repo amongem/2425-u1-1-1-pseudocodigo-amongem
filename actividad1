@@ -1,0 +1,7 @@
+inicio
+Escribe "leer numero"
+leer num1
+num2 = 0
+para numero desde 1 hasta 10
+Escribir (num1*(num2+1))
+fin
